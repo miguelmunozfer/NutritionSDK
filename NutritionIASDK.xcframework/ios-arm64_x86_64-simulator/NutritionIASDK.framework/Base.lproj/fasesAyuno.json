@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Aumento de azúcar",
+        "timeInfo": "(0 – 3 HORAS. AUMENTO DE LA GLUCEMIA)",
+        "image": "aumento",
+        "hour": 0,
+        "helpText": "Tu cuerpo comienza a procesar y transformar los alimentos ingeridos y aumenta la cantidad de glucosa en sangre.\nEste aumento de la glucemia hace que tu organismo aumente la producción de insulina, que estimulará la metabolización de esa glucosa para su asimilación y almacenamiento en forma de glucógeno hepático y muscular. "
+    },
+    {
+        "name": "Disminución de azúcar",
+        "timeInfo": "(3 – 9 HORAS. DISMINUCIÓN DE LA GLUCEMIA)",
+        "image": "disminucion",
+        "hour": 3,
+        "helpText": "Por la acción de la insulina, tus células comienzan a absorber glucosa y acumularla en forma de glucógeno, y tu nivel de azúcar en sangre disminuye. Durante esta fase, tu disponibilidad de carbohidratos aún es alta, por lo que tu cuerpo aún no consumirá prácticamente grasas."
+    },
+    {
+        "name": "Estabilización de azúcar",
+        "timeInfo": "(9 – 11 HORAS. ESTABILIZACIÓN DINÁMICA)",
+        "image": "estabilizacion",
+        "hour": 9,
+        "helpText": "En esta fase, tu nivel de azúcar en sangre se estabiliza. Por una parte, tus órganos la utilizan para obtener energía, pero por otra, por mediación del glucagón, tu glucógeno es liberado a la sangre en forma de glucosa. Esta es una fase de equilibrio dinámico y tu glucemia permanece estable. "
+    },
+    {
+        "name": "Quema de grasas",
+        "timeInfo": "(11 – 14 HORAS. LIPOLISIS Y OXIDACIÓN DE GRASAS)",
+        "image": "quema",
+        "hour": 11,
+        "helpText": "Tu organismo sigue necesitando energía para cumplir con sus funciones vitales, pero la disponibilidad de glucosa y glucógeno comienza a disminuir, por lo que tus células entran en 'modo quema de grasas'.\nLas grasas son otra de tus grandes fuentes de energía, pero tus células sólo utilizan la grasa como energía cuando el nivel de glucosa en sangre no es elevado.\nSe da un doble proceso. Por una parte, la lipolisis que es convertir las grasas almacenadas en tu tejido adiposo en una forma utilizable por tus células (ácidos grasos), y, por otra parte, la quema de esas grasas, que se llama beta- oxidación, y ocurre en las mitocondrias de tus células."
+    },
+    {
+        "name": "Cetosis",
+        "timeInfo": "(14 – 16 HORAS. CETOSIS)",
+        "image": "cetosis",
+        "hour": 14,
+        "helpText": "Cuando tu organismo está oxidando grasas, en tu hígado se produce un fenómeno llamado Cetosis, y es una de las características de los ayunos de más de 14 horas. Las cetonas son una gran fuente de energía para el cerebro y el corazón.\nSe ha demostrado que la presencia de cetonas mejora los procesos cognitivos y son un poderoso estímulo para tu sistema nervioso.\nLa cetosis es una efectiva forma que tiene tu organismo de seguir produciendo energía por medio de las grasas, por lo que ayudar a que este fenómeno ocurra es muy interesante para reducir tu grasa corporal."
+    },
+    {
+        "name": "Autofagia",
+        "timeInfo": "(16 HORAS EN ADELANTE. AUTOFAGIA)",
+        "image": "autofagia",
+        "hour": 16,
+        "helpText": "Cuando tu organismo se enfrenta a ayunos prolongados, busca fuentes alternativas de energía. Aquí entra en juego la autofagia. La autofagia es el mecanismo por el que tu cuerpo se “come a sí mismo”. Pero lo hace mediante un proceso muy interesante y beneficioso que ocurre en aquellas células viejas y/o defectuosas. La autofagia destruye y descompone estas células, que ya no funcionan correctamente y pueden ser peligrosas, y ocurren dos cosas: por una parte, los compuestos de estas células que ya no son útiles son procesados y destruidos. Y, por otra parte, aquellos compuestos de estas células que están en buen estado, son reutilizados y reciclados. Por lo tanto, la autofagia es un proceso de reciclado que nos renueva y vela por nuestra integridad celular. Estimular la autofagia periódicamente nos depura y mejora el proceso de vigilancia inmunológica."
+    }
+
+]

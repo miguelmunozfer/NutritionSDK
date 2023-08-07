@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Very light",
+        "icon": "physicalIntensityID_1",
+        "text": "I remain sitted or resting most of the day. Computer work, driving, very short walks on flat terrain"
+    },
+    {
+        "title": "Light",
+        "icon": "physicalIntensityID_2",
+        "text": "Gardening, housework, very easy bike rides, easy swimming, long walks on flat terrain..."
+    },
+    {
+        "title": "Medium",
+        "icon": "physicalIntensityID_3",
+        "text": "Going up or down stairs, carrying things, practicing moderate intensity sports 1-2 days a week (biking, football, tennis, basketball...)"
+    },
+    {
+        "title": "Intense",
+        "icon": "physicalIntensityID_4",
+        "text": "Heavy loading and unloading work, running up or down stairs. High intensity sports up to 3-4 days per week."
+    },
+    {
+        "title": "Very intense",
+        "icon": "physicalIntensityID_5",
+        "text": "Sports performed at maximum intensity, more than 4 times a week."
+    }
+]

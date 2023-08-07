@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-SDKsDemo/Pods-SDKsDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Hero/Hero.framework
+${BUILT_PRODUCTS_DIR}/JWTDecode/JWTDecode.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/NutritionIASDK/NutritionIASDK.framework/NutritionIASDK

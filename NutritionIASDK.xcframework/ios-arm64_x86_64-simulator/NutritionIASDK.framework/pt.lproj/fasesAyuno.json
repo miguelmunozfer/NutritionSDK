@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Aumento de açúcar",
+        "timeInfo": "(0 a 3 HORAS. AUMENTO DA GLICOSE NO SANGUE)",
+        "image": "aumento",
+        "hour": 0,
+        "helpText": "O seu corpo começa a processar e transformar alimentos ingeridos e aumenta a quantidade de glicose no sangue.\nEste aumento da glicemia faz com que o seu corpo aumente a produção de insulina, o que estimulará a metabolização dessa glicose para assimilação e armazenamento sob a forma de glicogénio hepático e muscular."
+    },
+    {
+        "name": "Diminuição de açúcar",
+        "timeInfo": "(3 a 9 HORAS. DIMINUIÇÃO DA GLICOSE NO SANGUE)",
+        "image": "disminucion",
+        "hour": 3,
+        "helpText": "Com a ação da insulina, as suas células começam a absorver glicose e a acumulá-la sob a forma de glicogénio, e o seu nível de açúcar no sangue diminui. Durante esta fase, a disponibilidade de hidratos de carbono ainda é elevada, pelo que o seu corpo ainda não consumirá praticamente gordura."
+    },
+    {
+        "name": "Estabilização de açúcar",
+        "timeInfo": "(9 a 11 HORAS. ESTABILIZAÇÃO DINÂMICA)",
+        "image": "estabilizacion",
+        "hour": 9,
+        "helpText": "Nesta fase, o seu nível de açúcar no sangue estabiliza. Por um lado, os seus órgãos usam-no como energia, mas por outro, através do glucagon, o glicogénio é libertado no sangue sob a forma de glicose. Esta é uma fase dinâmica de equilíbrio e a glicose no sangue permanece estável."
+    },
+    {
+        "name": "Queima de gordura",
+        "timeInfo": "(11 - 14 HORAS. LIPOÓLISE E OXIDAÇÃO DE GORDURAS)",
+        "image": "quema",
+        "hour": 11,
+        "helpText": "O seu corpo ainda precisa de energia para cumprir as suas funções vitais, mas a disponibilidade de glicose e glicogénio começa a diminuir, pelo que as suas células entram em 'modo de queima de gordura'.\nAs gorduras são outra das suas grandes fontes de energia, mas as suas células só usam gordura como energia quando o nível de glicose no sangue não está elevado.\nHá um processo duplo. Por um lado, a lipólise que está a converter gorduras armazenadas no seu tecido adiposo numa forma utilizável pelas suas células (ácidos gordos), e,  por outro lado, a queima dessas gorduras, que é chamada de beta-oxidação, ocorre nas mitocôndrias das suas células."
+    },
+    {
+        "name": "Cetose",
+        "timeInfo": "(14 - 16 HORAS. CETOSE)",
+        "image": "cetosis",
+        "hour": 14,
+        "helpText": "Quando o seu corpo está a oxidar gorduras, um fenómeno chamado Cetosis ocorre no seu fígado e é uma das características do jejum por mais de 14 horas. As cetonas são uma grande fonte de energia para o cérebro e o coração.\nA presença de cetonas tem sido demonstrada para melhorar os processos cognitivos e são um poderoso estímulo para o seu sistema nervoso.\nA cetose é uma forma eficaz do seu corpo continuar a produzir energia através de gorduras, por isso ajudar este fenómeno a ocorrer é muito interessante para reduzir a gordura corporal."
+    },
+    {
+        "name": "Autofagia",
+        "timeInfo": "(16 HORAS OU MAIS. AUTOFAGIA)",
+        "image": "autofagia",
+        "hour": 16,
+        "helpText": "Quando o seu corpo é confrontado com jejums prolongados, procure fontes de energia alternativas. É aqui que entra a autofagia. Autofagia é o mecanismo pelo qual o seu corpo 'come-se a si próprio'. Mas fá-lo através de um processo muito interessante e benéfico que ocorre naquelas células antigas e/ou defeituosas. A autofagia destrói e decompõe estas células, que já não funcionam corretamente e podem ser perigosas, e duas coisas acontecem: por um lado, os compostos destas células que já não são úteis são processados e destruídos. Por outro lado, os compostos destas células que estão em bom estado, são reutilizados e reciclados. Portanto, a autofagia é um processo de reciclagem que nos renova e vigia a nossa integridade celular. Estimular a autofagia purifica-nos periodicamente e melhora o processo de vigilância imunológica."
+    }
+
+]

@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Estamos preparando tu menú"; ObjectID = "2ou-K7-ML6"; */
+"2ou-K7-ML6.text" = "We are preparing your menu";
+
+/* Class = "UILabel"; text = "Preferencias nutricionales"; ObjectID = "DqK-tr-8Am"; */
+"DqK-tr-8Am.text" = "Nutritional preferences";
+
+/* Class = "UILabel"; text = "Ingestas diarias"; ObjectID = "GKw-Vt-cnu"; */
+"GKw-Vt-cnu.text" = "Daily intakes";
+
+/* Class = "UILabel"; text = "Seleccionando alimentos"; ObjectID = "Hp0-j3-ygs"; */
+"Hp0-j3-ygs.text" = "Selecting food";
+
+/* Class = "UIButton"; normalTitle = "VER MENÚ"; ObjectID = "VzA-20-CKE"; */
+"VzA-20-CKE.normalTitle" = "See my plan";
+
+/* Class = "UILabel"; text = "Calculando Kcal"; ObjectID = "cNs-iY-myy"; */
+"cNs-iY-myy.text" = "Calculating Kcal";

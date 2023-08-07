@@ -1,0 +1,27 @@
+PODS:
+  - Hero (1.6.1)
+  - JWTDecode (2.6.3)
+  - NutritionIASDK (1.2.3):
+    - Hero (~> 1.6.1)
+    - JWTDecode (~> 2.6)
+
+DEPENDENCIES:
+  - NutritionIASDK (from `/Users/mmunozfer/Documents/Documentos - MacBook Pro de Miguel/NutritionIASDKCocoaPods/NutritionIASDK.podspec`)
+
+SPEC REPOS:
+  trunk:
+    - Hero
+    - JWTDecode
+
+EXTERNAL SOURCES:
+  NutritionIASDK:
+    :path: "/Users/mmunozfer/Documents/Documentos - MacBook Pro de Miguel/NutritionIASDKCocoaPods/NutritionIASDK.podspec"
+
+SPEC CHECKSUMS:
+  Hero: 215865ba3ae41dd9bb08cd6c60a645529c6fc94b
+  JWTDecode: 33e5e26e5ddbd21b2065820894c08fef0cad9509
+  NutritionIASDK: 667d2c2873610b3764e96a959aa0ec060a53be4b
+
+PODFILE CHECKSUM: d3c3d3298a45a92c704ecd7fb169ee89c531dc80
+
+COCOAPODS: 1.11.3

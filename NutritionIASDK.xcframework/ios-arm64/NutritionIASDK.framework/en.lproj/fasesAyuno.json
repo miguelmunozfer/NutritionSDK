@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Sugar Increase",
+        "timeInfo": "(0 – 3 HOURS. INCREASED GLYCEMIA)",
+        "image": "aumento",
+        "hour": 0,
+        "helpText": "Your body starts processing and transforming the food you eat and increases the amount of blood glucose.This increase in blood glucose makes your body increase the production of insulin, which will stimulate the metabolism of that glucose for its absorption and storage in the form of liver and muscle glycogen."
+    },
+    {
+        "name": "Sugar decrease",
+        "timeInfo": "(3 – 9 HOURS. REDUCTION IN GLYCEMIA)",
+        "image": "disminucion",
+        "hour": 3,
+        "helpText": "Due to the action of insulin, your cells begin to absorb glucose and store it in the form of glycogen, and your blood sugar level decreases. During this phase, the availability of carbohydrates is still high, so your body will still burn barely any fat."
+    },
+    {
+        "name": "Sugar stabilization",
+        "timeInfo": "(9 – 11 HOURS. DYNAMIC STABILIZATION)",
+        "image": "estabilizacion",
+        "hour": 9,
+        "helpText": "In this phase, your blood sugar level stabilizes. On the one hand, your organs use it for energy, but on the other, through glucagon, your glycogen is released into the blood in the form of glucose. This is a dynamic balanced phase and your blood glucose remains stable."
+    },
+    {
+        "name": "Fat burning",
+        "timeInfo": "(11 – 14 HOURS. LIPOLYSIS AND FAT OXIDATION)",
+        "image": "quema",
+        "hour": 11,
+        "helpText": "Your body still needs energy to carry out its vital functions, but the availability of glucose and glycogen begins to decrease, so your cells go into 'fat burning mode'.Fats are a great source of energy, but your cells only use fats for energy when the blood glucose level is not high.There is a double process. On the one hand, lipolysis, which converts the fats stored in your adipose tissue into a usable form for your cells (fatty acids), and, on the other hand, the burning of these fats, which is called beta-oxidation, and takes place in the mitochondria of your cells."
+    },
+    {
+        "name": "Ketosis",
+        "timeInfo": "(14 – 16 HOURS. KETOSIS)",
+        "image": "cetosis",
+        "hour": 14,
+        "helpText": "When your body is oxidizing fat, a phenomenon called Ketosis occurs in your liver, this is one of the characteristics of fasting for more than 14 hours. Ketones are a great source of energy for the brain and heart.The presence of ketones has been shown to improve cognitive processing and are a powerful stimulus for your nervous system.Ketosis is an effective way for your body to continue to generate energy through fat, so triggering this phenomenon is very interesting to reduce your body fat."
+    },
+    {
+        "name": "Autophagy",
+        "timeInfo": "(16 HOURS ON. AUTOPHAGY)",
+        "image": "autofagia",
+        "hour": 16,
+        "helpText": "When your body faces long fastting periods, it looks for alternative sources of energy. This is where autophagy happens. Autophagy is the mechanism by which your body “eats itself”. But it does so through a very interesting and beneficial process that happens in those old and/or defective cells. Autophagy destroys and breaks down those cells, which no longer work properly and can be dangerous, and two things happen: on the one hand, the compounds of these cells that are no longer useful are processed and destroyed. And, on the other hand, the compounds of those cells that are in good condition are reused and recycled. Therefore, autophagy is a recycling process that renews us and watches over our cellular integrity. Stimulating autophagy periodically cleanses us and improves the immune surveillance process."
+    }
+
+]

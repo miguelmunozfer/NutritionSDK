@@ -1,0 +1,80 @@
+[{
+        "page": 0,
+        "panels": [
+            {
+                "questions": [
+                    {
+                    "title": "¿Cúal es tu objetivo?",
+                    "identifier": "desiredBalanceID",
+                    "type": "list",
+                    "isMultipleSelection": false
+                },
+                    {
+                    "title": "¿Nivel de actividad física?",
+                    "identifier": "physicalIntensityID",
+                    "type": "list",
+                    "info": "activity_info",
+                    "isMultipleSelection": false
+                }
+                    ]
+            },
+            {
+                "questions": [{
+                    "title": "¿Alguna preferencia nutricional?",
+                    "type": "list",
+                    "identifier": "preferences",
+                    "isMultipleSelection": true
+                }]
+            },
+            {
+                "questions": [{
+                    "title": "¿Alguna alergia o intolerancia?",
+                    "type": "list",
+                    "identifier": "intollerance",
+                    "isMultipleSelection": true
+                }]
+            },
+            {
+                "questions": [{
+                    "title": "¿Además de la comida y la cena, que otras comidas quieres?",
+                    "identifier": "selectedIntakes",
+                    "fixed": [3,5],
+                    "type": "list",
+                    "isMultipleSelection": true
+
+                }]
+            },
+            {
+                "questions": [
+                    {
+                        "title": "¿Cúantos platos quieres en la comida?",
+                        "identifier": "lunchDishes",
+                        "isMultipleSelection": true,
+                        "type": "list"
+                    },
+                    {
+                        "title": "¿Cúantos platos quieres en la cena?",
+                        "identifier": "dinnerDishes",
+                        "isMultipleSelection": true,
+                        "type": "list"
+                    }]
+            },
+            {
+                "questions": [
+                    {
+                        "title": "¿Dificultad de las recetas?",
+                        "type": "list",
+                        "identifier": "difficulty",
+                        "isMultipleSelection": false
+                    },
+                    {
+                    "title": "¿Qué tipo de ayuno quieres hacer?",
+                    "type": "list",
+                    "identifier": "intermittentFastingID",
+                    "isMultipleSelection": false
+                }
+                ]
+            }
+        ]
+    }
+]

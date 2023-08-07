@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Empieza"; ObjectID = "12x-5y-QHx"; */
+"12x-5y-QHx.text" = "Start";
+
+/* Class = "UILabel"; text = "16/8"; ObjectID = "3Id-hO-A1L"; */
+"3Id-hO-A1L.text" = "16/8";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "E8w-4b-b58"; */
+"E8w-4b-b58.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "F7v-X3-VyQ"; */
+"F7v-X3-VyQ.text" = "Label";
+
+/* Class = "UILabel"; text = "¡Estás ayunando ahora!"; ObjectID = "J7P-af-GHV"; */
+"J7P-af-GHV.text" = "You are fasting now!";
+
+/* Class = "UILabel"; text = "Termina"; ObjectID = "wiZ-FO-YTr"; */
+"wiZ-FO-YTr.text" = "Ends";
+
+/* Class = "UIButton"; normalTitle = "Terminar ayuno"; ObjectID = "wuX-Mu-xj9"; */
+"wuX-Mu-xj9.normalTitle" = "Break fast";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yS2-XG-uGl"; */
+"yS2-XG-uGl.text" = "Label";
