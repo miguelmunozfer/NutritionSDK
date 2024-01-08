@@ -8,12 +8,12 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NutritionSDK'
-  s.version          = '2.3'
+  s.version          = '2.3.1'
   s.summary          = 'Intelligent, automatic, comprehensive, adaptive Training System'
   s.homepage         = 'https://www.myvitale.com/'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Miguel Muñoz' => 'miguel.munoz@myvitale.com' }
-  s.source           = { :git => 'https://github.com/miguelmunozfer/NutritionSDK.git', :tag => "2.3" }
+  s.source           = { :git => 'https://github.com/miguelmunozfer/NutritionSDK.git', :tag => "2.3.1" }
   s.ios.deployment_target = '12.0'
   # s.resources = "**/**/en.lproj"
   s.vendored_frameworks = 'NutritionIASDK.xcframework' # Your XCFramework
@@ -21,6 +21,6 @@ Pod::Spec.new do |s|
   s.dependency  'JWTDecode', '~> 2.6'
   s.swift_version = "5.0"
   s.swift_versions = ["5.0"]
-  # s.xcconfig = { 'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES' }
+ # s.xcconfig = { 'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES' }
 
 end

@@ -231,6 +231,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
@@ -7091,6 +7098,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "HeroCompatible",
             "printedName": "HeroCompatible",
             "children": [
@@ -7122,6 +7136,34 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NutritionIASDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "NutritionIASDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "NutritionIASDK"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "NutritionIASDK"
       },
       {
         "kind": "TypeDecl",
@@ -19817,6 +19859,776 @@
       "offset": 3832,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 732,
+      "length": 12,
+      "value": "\"Group 1651\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 868,
+      "length": 9,
+      "value": "\"acelgas\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 995,
+      "length": 6,
+      "value": "\"agua\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1136,
+      "length": 15,
+      "value": "\"ajustes-nutri\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1289,
+      "length": 17,
+      "value": "\"ajustes-nutri-1\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1438,
+      "length": 13,
+      "value": "\"alternativa\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1575,
+      "length": 9,
+      "value": "\"aumento\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1720,
+      "length": 15,
+      "value": "\"aumentoazucar\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1863,
+      "length": 11,
+      "value": "\"autofagia\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2009,
+      "length": 15,
+      "value": "\"ayuno-section\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2148,
+      "length": 12,
+      "value": "\"back-image\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2291,
+      "length": 13,
+      "value": "\"back-receta\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2427,
+      "length": 9,
+      "value": "\"bt-info\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2554,
+      "length": 6,
+      "value": "\"cena\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2684,
+      "length": 9,
+      "value": "\"cetosis\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2813,
+      "length": 7,
+      "value": "\"close\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2951,
+      "length": 13,
+      "value": "\"close-arrow\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3089,
+      "length": 10,
+      "value": "\"close-bt\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3221,
+      "length": 8,
+      "value": "\"comida\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3355,
+      "length": 10,
+      "value": "\"desayuno\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3510,
+      "length": 20,
+      "value": "\"desiredBalanceID_1\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3675,
+      "length": 20,
+      "value": "\"desiredBalanceID_2\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3840,
+      "length": 20,
+      "value": "\"desiredBalanceID_3\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3993,
+      "length": 14,
+      "value": "\"difficulty_1\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4140,
+      "length": 14,
+      "value": "\"difficulty_2\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4287,
+      "length": 14,
+      "value": "\"difficulty_3\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4438,
+      "length": 16,
+      "value": "\"dinnerDishes_1\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4591,
+      "length": 16,
+      "value": "\"dinnerDishes_2\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4744,
+      "length": 16,
+      "value": "\"dinnerDishes_3\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4892,
+      "length": 13,
+      "value": "\"disminucion\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5049,
+      "length": 19,
+      "value": "\"disminucionazucar\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5194,
+      "length": 10,
+      "value": "\"ensalada\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5342,
+      "length": 16,
+      "value": "\"estabilizacion\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5501,
+      "length": 19,
+      "value": "\"excludedAliment_1\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5665,
+      "length": 20,
+      "value": "\"excludedAliment_10\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5830,
+      "length": 20,
+      "value": "\"excludedAliment_11\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5995,
+      "length": 20,
+      "value": "\"excludedAliment_12\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6160,
+      "length": 20,
+      "value": "\"excludedAliment_13\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6325,
+      "length": 20,
+      "value": "\"excludedAliment_14\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6488,
+      "length": 19,
+      "value": "\"excludedAliment_2\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6650,
+      "length": 19,
+      "value": "\"excludedAliment_3\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6812,
+      "length": 19,
+      "value": "\"excludedAliment_4\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6974,
+      "length": 19,
+      "value": "\"excludedAliment_5\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7136,
+      "length": 19,
+      "value": "\"excludedAliment_6\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7298,
+      "length": 19,
+      "value": "\"excludedAliment_7\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7460,
+      "length": 19,
+      "value": "\"excludedAliment_8\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7622,
+      "length": 19,
+      "value": "\"excludedAliment_9\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7767,
+      "length": 10,
+      "value": "\"favorite\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7910,
+      "length": 14,
+      "value": "\"favorite-off\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8055,
+      "length": 13,
+      "value": "\"favorite-on\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8186,
+      "length": 6,
+      "value": "\"food\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8314,
+      "length": 8,
+      "value": "\"gluten\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8440,
+      "length": 6,
+      "value": "\"info\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8579,
+      "length": 14,
+      "value": "\"info_profile\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8721,
+      "length": 11,
+      "value": "\"infoalert\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8887,
+      "length": 25,
+      "value": "\"intermittentFastingID_0\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9067,
+      "length": 25,
+      "value": "\"intermittentFastingID_1\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9247,
+      "length": 25,
+      "value": "\"intermittentFastingID_2\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9427,
+      "length": 25,
+      "value": "\"intermittentFastingID_3\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9591,
+      "length": 17,
+      "value": "\"intollerance_10\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9747,
+      "length": 17,
+      "value": "\"intollerance_11\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9903,
+      "length": 17,
+      "value": "\"intollerance_12\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 10059,
+      "length": 17,
+      "value": "\"intollerance_13\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 10215,
+      "length": 17,
+      "value": "\"intollerance_14\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 10371,
+      "length": 17,
+      "value": "\"intollerance_15\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 10527,
+      "length": 17,
+      "value": "\"intollerance_16\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 10683,
+      "length": 17,
+      "value": "\"intollerance_17\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 10837,
+      "length": 16,
+      "value": "\"intollerance_6\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 10990,
+      "length": 16,
+      "value": "\"intollerance_7\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 11143,
+      "length": 16,
+      "value": "\"intollerance_8\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 11296,
+      "length": 16,
+      "value": "\"intollerance_9\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 11432,
+      "length": 7,
+      "value": "\"listo\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 11557,
+      "length": 6,
+      "value": "\"love\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 11698,
+      "length": 15,
+      "value": "\"lunchDishes_1\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 11848,
+      "length": 15,
+      "value": "\"lunchDishes_2\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 11998,
+      "length": 15,
+      "value": "\"lunchDishes_3\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 12145,
+      "length": 13,
+      "value": "\"mediamanana\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 12284,
+      "length": 10,
+      "value": "\"merienda\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 12420,
+      "length": 10,
+      "value": "\"nofodmap\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 12559,
+      "length": 12,
+      "value": "\"open-arrow\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 12722,
+      "length": 23,
+      "value": "\"physicalIntensityID_1\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 12896,
+      "length": 23,
+      "value": "\"physicalIntensityID_2\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 13070,
+      "length": 23,
+      "value": "\"physicalIntensityID_3\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 13244,
+      "length": 23,
+      "value": "\"physicalIntensityID_4\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 13418,
+      "length": 23,
+      "value": "\"physicalIntensityID_5\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 13582,
+      "length": 18,
+      "value": "\"placeholder_menu\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 13720,
+      "length": 7,
+      "value": "\"pollo\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 13853,
+      "length": 10,
+      "value": "\"porridge\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 14005,
+      "length": 19,
+      "value": "\"potaje-de-vigilia\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 14159,
+      "length": 15,
+      "value": "\"preferences_1\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 14309,
+      "length": 15,
+      "value": "\"preferences_2\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 14459,
+      "length": 15,
+      "value": "\"preferences_3\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 14609,
+      "length": 15,
+      "value": "\"preferences_4\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 14754,
+      "length": 12,
+      "value": "\"preparando\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 14898,
+      "length": 13,
+      "value": "\"preparando2\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 15031,
+      "length": 7,
+      "value": "\"quema\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 15170,
+      "length": 13,
+      "value": "\"quemagrasas\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 15309,
+      "length": 10,
+      "value": "\"sandwich\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 15462,
+      "length": 19,
+      "value": "\"selectedIntakes_1\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 15624,
+      "length": 19,
+      "value": "\"selectedIntakes_2\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 15786,
+      "length": 19,
+      "value": "\"selectedIntakes_3\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 15948,
+      "length": 19,
+      "value": "\"selectedIntakes_4\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 16110,
+      "length": 19,
+      "value": "\"selectedIntakes_5\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 16268,
+      "length": 17,
+      "value": "\"settings-button\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 16414,
+      "length": 12,
+      "value": "\"test-check\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 16548,
+      "length": 8,
+      "value": "\"vegano\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 16677,
+      "length": 8,
+      "value": "\"wait_1\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 16806,
+      "length": 8,
+      "value": "\"wait_2\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 16935,
+      "length": 8,
+      "value": "\"wait_3\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Library\/Developer\/Xcode\/DerivedData\/NutritionIASDK-gwepimupysepxcchbjyscilllzfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NutritionIASDK\/IntermediateBuildFilesPath\/NutritionIASDK.build\/Release-iphonesimulator\/NutritionIASDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 17064,
+      "length": 8,
+      "value": "\"wait_4\""
     }
   ]
 }
