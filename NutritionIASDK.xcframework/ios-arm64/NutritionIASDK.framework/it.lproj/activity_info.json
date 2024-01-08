@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Molto leggera",
+        "text": "Rimango seduto o a riposo la maggior parte della giornata. Lavoro al computer, guida, brevi passeggiate in terreno pianeggiante"
+    },
+    {
+        "title": "Leggera",
+        "text": "Lavori di giardinaggio, faccende domestiche, passeggiate in bicicletta molto dolci, nuotare dolcemente, lunghe passeggiate in terreno pianeggiante…"
+    },
+    {
+        "title": "Moderata",
+        "text": "Salire o scendere le scale, trasportare oggetti, pratica sportiva di moderata intensità 1-2 giorni alla settimana (bicicletta, calcio, tennis, basket…)"
+    },
+    {
+        "title": "Intensa",
+        "text": "Lavori di carico e scarico pesanti, salire o scendere le scale correndo, tagliare. Sport ad alta intensità fino a 3-4 giorni alla settimana."
+    },
+    {
+        "title": "Molto intensa",
+        "text": "Sport praticati con la massima intensità, più di 4 volte alla settimana."
+    }
+]

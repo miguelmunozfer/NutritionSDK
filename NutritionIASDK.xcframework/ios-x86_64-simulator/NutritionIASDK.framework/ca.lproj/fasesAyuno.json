@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Augment de sucre",
+        "timeInfo": "(0 – 3 HORES. AUGMENT DE LA GLUCÈMIA)",
+        "image": "augment",
+        "hour": 0,
+        "helpText": "El teu cos comença a processar i transformar els aliments ingerits i augmenta la quantitat de glucosa en sang. Aquest augment de la glucèmia fa que el teu organisme augmenti la producció d'insulina, que estimularà la metabolització d'aquesta glucosa per a la seva assimilació i emmagatzematge en forma de glucogen hepàtic i muscular."
+    },
+    {
+        "name": "Disminució de sucre",
+        "timeInfo": "(3 – 9 HORES. DISMINUCIÓ DE LA GLUCÈMIA)",
+        "image": "disminucio",
+        "hour": 3,
+        "helpText": "Per l'acció de la insulina, les teves cèl·lules comencen a absorbir glucosa i acumular-la en forma de glucogen, i el teu nivell de sucre en sang disminueix. Durant aquesta fase, la teva disponibilitat de carbohidrats encara és alta, de manera que el teu cos encara no consumirà gairebé greixos."
+    },
+    {
+        "name": "Estabilització de sucre",
+        "timeInfo": "(9 – 11 HORES. ESTABILITZACIÓ DINÀMICA)",
+        "image": "estabilitzacio",
+        "hour": 9,
+        "helpText": "En aquesta fase, el teu nivell de sucre en sang s'estabilitza. D'una banda, els teus òrgans l'utilitzen per obtenir energia, però d'altra banda, per mediació del glucagó, el teu glucogen és alliberat a la sang en forma de glucosa. Aquesta és una fase d'equilibri dinàmic i la teva glucèmia roman estable."
+    },
+    {
+        "name": "Combustió de greixos",
+        "timeInfo": "(11 – 14 HORES. LIPÒLISI I OXIDACIÓ DE GREIXOS)",
+        "image": "combustio",
+        "hour": 11,
+        "helpText": "El teu organisme continua necessitant energia per complir amb les seves funcions vitals, però la disponibilitat de glucosa i glucogen comença a disminuir, de manera que les teves cèl·lules entren en 'mode combustió de greixos'. Les greixos són una altra de les teves grans fonts d'energia, però les teves cèl·lules només utilitzen el greix com a energia quan el nivell de glucosa en sang no és elevat. Es produeix un doble procés. D'una banda, la lipòlisi que és convertir els greixos emmagatzemats en el teu teixit adipós en una forma utilitzable per les teves cèl·lules (àcids grassos), i, d'altra banda, la combustió d'aquests greixos, que es diu beta-oxidació, i es produeix a les mitocòndries de les teves cèl·lules."
+    },
+    {
+        "name": "Cetosi",
+        "timeInfo": "(14 – 16 HORES. CETOSI)",
+        "image": "cetosi",
+        "hour": 14,
+        "helpText": "Quan el teu organisme està oxidant greixos, en el teu fetge es produeix un fenomen anomenat Cetosi, i és una de les característiques dels dejunis de més de 14 hores. Les cetones són una gran font d'energia per al cervell i el cor. S'ha demostrat que la presència de cetones millora els processos cognitius i són un poderós estímul per al teu sistema nerviós. La cetosi és una forma eficaç que té el teu cos de continuar produint energia mitjançant els greixos, així que ajudar a que aquest fenomen es produeixi és molt interessant per reduir el teu greix corporal."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Molt lleugera",
+        "text": "Permaneixo assegut o en repòs la major part del dia. Treball d'ordinador, conduir, passeigs molt curts en terreny pla"
+    },
+    {
+        "title": "Lleugera",
+        "text": "Tasques de jardineria, tasques domèstiques, passejos en bicicleta molt suau, nedar suau, caminades llargues en terreny pla…"
+    },
+    {
+        "title": "Moderada",
+        "text": "Pujar o baixar escales, transportar objectes, pràctica esportiva de moderada intensitat 1-2 dies per setmana (bicicleta, futbol, tennis, bàsquet…)"
+    },
+    {
+        "title": "Intensa",
+        "text": "Treballs de càrrega i descàrrega pesats, pujar o baixar escales corrent, tallar. Esport d'alta intensitat fins a 3-4 dies per setmana."
+    },
+    {
+        "title": "Molt intensa",
+        "text": "Esports practicats a la màxima intensitat, més de 4 vegades per setmana."
+    }
+]

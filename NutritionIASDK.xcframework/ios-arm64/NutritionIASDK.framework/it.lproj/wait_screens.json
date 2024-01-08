@@ -1,0 +1,18 @@
+[
+    {
+        "image": "wait_1",
+        "text": "Il nostro sistema sta configurando la tua dieta personalizzata tenendo conto di tutte le preferenze che hai selezionato."
+    },
+    {
+        "image": "wait_2",
+        "text": "Mentre prepariamo la tua dieta completa, puoi già vedere il tuo menù per oggi. Ma prima, alcune informazioni utili."
+    },
+    {
+        "image": "wait_3",
+        "text": "Puoi consultare, per ogni piatto, le caratteristiche nutrizionali, gli ingredienti, la ricetta per prepararlo e un suggerimento di presentazione."
+    },
+    {
+        "image": "wait_4",
+        "text": "Inoltre, se qualche piatto suggerito non ti va, puoi usare il bottone in alto a destra e ti daremo alternative equivalenti dal punto di vista nutrizionale."
+    }
+]

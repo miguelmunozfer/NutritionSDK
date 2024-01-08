@@ -1,0 +1,11 @@
+/* Class = "UILabel"; text = "Menú"; ObjectID = "BIm-mv-KXX"; */
+"BIm-mv-KXX.text" = "Menu";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UpC-1H-qWp"; */
+"UpC-1H-qWp.text" = "Etichetta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "a9l-3a-bnZ"; */
+"a9l-3a-bnZ.text" = "Etichetta";
+
+/* Class = "UIButton"; normalTitle = "VER MENÚ"; ObjectID = "nec-2p-acM"; */
+"nec-2p-acM.normalTitle" = "Vedi menu";

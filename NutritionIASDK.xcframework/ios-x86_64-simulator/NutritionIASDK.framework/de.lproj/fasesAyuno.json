@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Zuckeranstieg",
+        "timeInfo": "(0 – 3 STUNDEN. GLUKOSEANSTIEG)",
+        "image": "ansteigen",
+        "hour": 0,
+        "helpText": "Dein Körper beginnt, die verzehrten Lebensmittel zu verarbeiten und verwandeln und der Blutzuckerspiegel steigt. Dieser Anstieg des Blutzuckerspiegels veranlasst deinen Körper, mehr Insulin zu produzieren, welches den Stoffwechsel dieser Glukose stimuliert, um sie zu assimilieren und in Form von hepatischem und muskulärem Glykogen zu speichern."
+    },
+    {
+        "name": "Zuckerabnahme",
+        "timeInfo": "(3 – 9 STUNDEN. GLUKOSEABNAHME)",
+        "image": "abnehmen",
+        "hour": 3,
+        "helpText": "Durch die Wirkung von Insulin beginnen deine Zellen, Glukose zu absorbieren und als Glykogen zu speichern, und dein Blutzuckerspiegel sinkt. Während dieser Phase ist die Verfügbarkeit von Kohlenhydraten immer noch hoch, so dass dein Körper fast kein Fett verbrennt."
+    },
+    {
+        "name": "Zuckerstabilisierung",
+        "timeInfo": "(9 – 11 STUNDEN. DYNAMISCHE STABILISIERUNG)",
+        "image": "stabilisierung",
+        "hour": 9,
+        "helpText": "In dieser Phase stabilisiert sich dein Blutzuckerspiegel. Einerseits verwenden deine Organe ihn, um Energie zu gewinnen, aber andererseits gibt der Glucagon dein Glykogen in Form von Glukose ins Blut frei. Dies ist eine Phase der dynamischen Balance, und dein Blutzuckerspiegel bleibt stabil."
+    },
+    {
+        "name": "Fettverbrennung",
+        "timeInfo": "(11 – 14 STUNDEN. LIPOLYSE UND FETTOXIDATION)",
+        "image": "verbrennung",
+        "hour": 11,
+        "helpText": "Dein Körper benötigt weiterhin Energie, um seine lebenswichtigen Funktionen zu erfüllen, aber die Verfügbarkeit von Glukose und Glykogen beginnt zu sinken. Daher gehen deine Zellen in den 'Fettverbrennungsmodus'. Fette sind eine andere Hauptenergiequelle für dich, aber deine Zellen nutzen Fett nur als Energie, wenn der Blutzuckerspiegel nicht hoch ist. Es findet ein zweifacher Prozess statt: einerseits die Lipolyse, bei der gespeichertes Fett in deinem Fettgewebe in eine für deine Zellen verwendbare Form (Fettsäuren) umgewandelt wird, und andererseits die Verbrennung dieser Fette, die als Beta-Oxidation bezeichnet wird und in den Mitochondrien deiner Zellen stattfindet."
+    },
+    {
+        "name": "Ketose",
+        "timeInfo": "(14 – 16 STUNDEN. KETOSE)",
+        "image": "ketose",
+        "hour": 14,
+        "helpText": "Wenn dein Körper Fette oxidiert, tritt in deiner Leber ein Phänomen auf, das als Ketose bezeichnet wird, und es ist eines der Merkmale des Fastens über 14 Stunden. Ketonkörper sind eine hervorragende Energiequelle für das Gehirn und das Herz. Es hat sich gezeigt, dass die Anwesenheit von Ketonkörpern die kognitiven Prozesse verbessert und ein starker Stimulus für dein Nervensystem ist. Ketose ist eine effiziente Methode, mit der dein Körper weiterhin Energie durch Fette produziert, so dass es sehr interessant ist, dieses Phänomen zu fördern, um dein Körperfett zu reduzieren."
+    }
+]

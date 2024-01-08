@@ -1,0 +1,79 @@
+[
+    {
+        "page": 0,
+        "panels": [
+            {
+                "questions": [{
+                    "title": "El teu nivell d'activitat física?",
+                    "identifier": "physicalIntensityID",
+                    "type": "list",
+                    "info": "activity_info",
+                    "isMultipleSelection": false
+                },
+                {
+                    "title": "Quin és el teu objectiu?",
+                    "identifier": "desiredBalanceID",
+                    "type": "list",
+                    "isMultipleSelection": false
+                }]
+            },
+            {
+                "questions": [{
+                    "title": "Algunes preferències nutricionals especials?",
+                    "type": "list",
+                    "identifier": "preferences",
+                    "isMultipleSelection": true
+                }]
+            },
+            {
+                "questions": [{
+                    "title": "Alguna al·lèrgia o intolerància?",
+                    "type": "list",
+                    "identifier": "intollerance",
+                    "isMultipleSelection": true,
+                }]
+            },
+            {
+                "questions": [{
+                    "title": "Quantes àpats vols al dia?",
+                    "identifier": "selectedIntakes",
+                    "fixed": [3,5],
+                    "type": "list",
+                    "isMultipleSelection": true
+
+                }]
+            },
+            {
+                "questions": [
+                    {
+                        "title": "Quants plats vols per al dinar?",
+                        "identifier": "lunchDishes",
+                        "isMultipleSelection": true,
+                        "type": "list"
+                    },
+                    {
+                        "title": "Quants plats vols per al sopar?",
+                        "identifier": "dinnerDishes",
+                        "isMultipleSelection": true,
+                        "type": "list"
+                    }]
+            },
+            {
+                "questions": [
+                    {
+                        "title": "Dificultat de les receptes?",
+                        "type": "list",
+                        "identifier": "difficulty",
+                        "isMultipleSelection": false,
+                    },
+                    {
+                        "title": "Vols fer dejuni intermitent?",
+                        "type": "list",
+                        "identifier": "intermittentFastingID",
+                        "isMultipleSelection": false,
+                    }
+                ]
+            }
+        ]
+    }
+]

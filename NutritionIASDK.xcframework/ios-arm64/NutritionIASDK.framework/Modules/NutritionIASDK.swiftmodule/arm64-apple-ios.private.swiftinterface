@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
 // swift-module-flags: -target arm64-apple-ios11.3 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name NutritionIASDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import Foundation
@@ -71,8 +71,8 @@ public struct PublicProfile : Swift.Codable {
   public var weight: Swift.Int?
   public var gender: NutritionIASDK.NutritionGender?
   public var birthDate: Foundation.Date?
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 public enum NutritionGender : Swift.String, Swift.Codable {
   case male, female
@@ -86,6 +86,9 @@ public enum NutritionLanguage : Swift.String, Swift.Codable, Swift.CaseIterable 
   case es
   case en
   case pt
+  case de
+  case ca
+  case it
   public init?(rawValue: Swift.String)
   public typealias AllCases = [NutritionIASDK.NutritionLanguage]
   public typealias RawValue = Swift.String
@@ -106,7 +109,7 @@ public enum DietType : Swift.Int {
   }
 }
 public enum NutritionUserCountry : Swift.Int, Swift.Codable {
-  case spain, portugal, colombia, uk, usa
+  case spain, portugal, colombia, uk, usa, germany, italy, cataluna
   public init?(rawValue: Swift.Int)
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
@@ -117,8 +120,8 @@ public struct NutritionDay : Swift.Codable {
   public var day: Swift.Int?
   public var intakes: [NutritionIASDK.NutritionIntake]?
   public var kcalDay: Swift.Int?
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 public struct NutritionIntake : Swift.Codable {
   public var intakeId: Swift.Int?
@@ -126,8 +129,8 @@ public struct NutritionIntake : Swift.Codable {
   public var day: Swift.Int?
   public var dishes: [NutritionIASDK.NutritionDish]?
   public func getTotalKcal() -> Swift.Int
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 public struct NutritionDish : Swift.Codable {
   public var dishID: Swift.Int?
@@ -139,8 +142,8 @@ public struct NutritionDish : Swift.Codable {
   public var difficulty: Swift.Int?
   public var ingredients: Swift.String?, recipe: Swift.String?
   public var binaryUrls: [Swift.String]?
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 extension UIKit.UIFont {
   public static func jbs_registerFont(withFilenameString filenameString: Swift.String, bundle: Foundation.Bundle)

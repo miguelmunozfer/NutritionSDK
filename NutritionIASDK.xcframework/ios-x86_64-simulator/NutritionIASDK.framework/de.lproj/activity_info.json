@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Sehr leicht",
+        "text": "Ich bleibe den größten Teil des Tages sitzen oder in Ruhe. Computerarbeit, Fahren, sehr kurze Spaziergänge auf ebenem Gelände"
+    },
+    {
+        "title": "Leicht",
+        "text": "Gartenarbeit, Hausarbeiten, sehr sanfte Fahrradtouren, sanftes Schwimmen, lange Spaziergänge auf ebenem Gelände…"
+    },
+    {
+        "title": "Moderat",
+        "text": "Treppen steigen oder hinuntergehen, Gegenstände transportieren, mäßig intensive sportliche Betätigung 1-2 Tage pro Woche (Fahrradfahren, Fußball, Tennis, Basketball…)"
+    },
+    {
+        "title": "Intensiv",
+        "text": "Schwere Beladungs- und Entladungsarbeiten, Treppen laufend hoch oder runter gehen, schneiden. Hochintensiver Sport bis zu 3-4 Tagen pro Woche."
+    },
+    {
+        "title": "Sehr intensiv",
+        "text": "Sportarten, die mit höchster Intensität ausgeübt werden, mehr als 4 Mal pro Woche."
+    }
+]
