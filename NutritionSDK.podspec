@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://www.myvitale.com/'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Miguel Muñoz' => 'miguel.munoz@myvitale.com' }
-  s.source           = { :git => 'https://github.com/miguelmunozfer/NutritionSDK.git', :tag => "2.2" }
+  s.source           = { :git => 'https://github.com/miguelmunozfer/NutritionSDK.git', :tag => "2.3" }
   s.ios.deployment_target = '12.0'
   # s.resources = "**/**/en.lproj"
   s.vendored_frameworks = 'NutritionIASDK.xcframework' # Your XCFramework
