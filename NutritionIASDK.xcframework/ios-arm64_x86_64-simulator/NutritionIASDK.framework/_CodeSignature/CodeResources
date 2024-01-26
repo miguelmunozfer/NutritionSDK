@@ -90,11 +90,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		cg5ozhwL/rpi8l4Ba6hcpIWm3Tg=
+		32vdCb6tvvbkGNZ0zpVvlO2j/nA=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		XNcnLW8fgFsrCMvCuDcKESm9Hko=
+		89OdSRUJi/OyWnvXjSbocPGoahg=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -102,19 +102,19 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		XNcnLW8fgFsrCMvCuDcKESm9Hko=
+		89OdSRUJi/OyWnvXjSbocPGoahg=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UFzkF/DZHHFvw2q33V1f942QSok=
+		k3OAisYaz8sWVBaUBDhSWyrjRCU=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		cg5ozhwL/rpi8l4Ba6hcpIWm3Tg=
+		32vdCb6tvvbkGNZ0zpVvlO2j/nA=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		nMSOK6kLzGaAppBrokEAnvswqs8=
+		PzrTXQgoXhzQCJHn6UVYbyz157Y=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -122,11 +122,11 @@
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		nMSOK6kLzGaAppBrokEAnvswqs8=
+		PzrTXQgoXhzQCJHn6UVYbyz157Y=
 		</data>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tj90yI7jvaY7QP5uzjfngr8BUjk=
+		BKfBMZwAZ5zeivPBh/R5g0EdKEk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -456,14 +456,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9cfj5/PINLATL/mYR5GP+G7JPvYbI6EFr8EIRVeKmKo=
+			eB2K4mcF/WJOfVVVz2Sp4g3NjKlYZUh5/+LzHf/Llac=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P3m744+4cWdIwPSkFmT9Gtdm8zDaK8pN5Exh3lRFwZo=
+			Pwu5CJfqqdY/ZB7uDMLY/SmBuxW4PZnJga9dzVZuPJw=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -477,28 +477,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P3m744+4cWdIwPSkFmT9Gtdm8zDaK8pN5Exh3lRFwZo=
+			Pwu5CJfqqdY/ZB7uDMLY/SmBuxW4PZnJga9dzVZuPJw=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kE2U3yrQg0hEBfLzkKM7jv8wotIb1wsimoLvwLlyCLg=
+			CmLXITpALHFReXpSbnEOTCTHdGXOxWKT4+ePKCVcLAc=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9cfj5/PINLATL/mYR5GP+G7JPvYbI6EFr8EIRVeKmKo=
+			eB2K4mcF/WJOfVVVz2Sp4g3NjKlYZUh5/+LzHf/Llac=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZZEK2jb7eGHULtR+5oTGcBj6djDBh1/dDTgWON56nnM=
+			U4uso0vkfyhFWrRhZUdoH2I5/8Deg/Z9M0lccqG2x/k=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -512,14 +512,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZZEK2jb7eGHULtR+5oTGcBj6djDBh1/dDTgWON56nnM=
+			U4uso0vkfyhFWrRhZUdoH2I5/8Deg/Z9M0lccqG2x/k=
 			</data>
 		</dict>
 		<key>Modules/NutritionIASDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			33qJ+CMC1Jue6yrSaAiMco9CBJnZKNb2779mQ//qPnU=
+			2rzfN6F/+M82YSIz0vNLw/BpkSp0rQVydOBc5D0jDCs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

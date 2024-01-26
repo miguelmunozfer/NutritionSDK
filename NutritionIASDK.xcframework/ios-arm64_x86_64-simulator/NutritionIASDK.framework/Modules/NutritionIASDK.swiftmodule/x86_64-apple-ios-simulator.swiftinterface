@@ -93,6 +93,7 @@ public enum NutritionLanguage : Swift.String, Swift.Codable, Swift.CaseIterable 
   case ca
   case it
   case eu
+  case enUS
   public init?(rawValue: Swift.String)
   public typealias AllCases = [NutritionIASDK.NutritionLanguage]
   public typealias RawValue = Swift.String
@@ -113,7 +114,7 @@ public enum DietType : Swift.Int {
   }
 }
 public enum NutritionUserCountry : Swift.Int, Swift.Codable {
-  case spain, portugal, colombia, uk, usa, germany, italy, cataluna, spainEUS
+  case spain, portugal, colombia, uk, usa, germany, italy, cataluna, spainEUS, usa2
   public init?(rawValue: Swift.Int)
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
