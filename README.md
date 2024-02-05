@@ -1,4 +1,4 @@
-# NutritionIASDK
+# NutritionSDK
 
 [![CI Status](https://img.shields.io/travis/Miguel/VitaleSDK.svg?style=flat)](https://travis-ci.org/Miguel/VitaleSDK)
 [![Version](https://img.shields.io/cocoapods/v/VitaleSDK.svg?style=flat)](https://cocoapods.org/pods/VitaleSDK)
@@ -32,23 +32,7 @@ end
 ```
 
 
-## Usage
-
-### Simple 1-line setup
-
-Use your credentials for initiating SDK. Your APP_ID must be permanent and unique for each App user (any user id, including the ones you are already using in your system,  can be used).
-
-```swift
-NutritionSDK.sharedInstance.startSession(with: MEMBER_ID, appID: APP_ID, password: APP_PASSWORD)
-
-```
-
-### Nutrition profile
-
-```swift
-NutritionSDK.sharedInstance.showProfile()
-
-```
+## Implementation Guide
 
 ### Show nutrition module
 
@@ -58,16 +42,56 @@ NutritionSDK.sharedInstance.showNutritionModule()
 
 ```
 
-### Custom configuration
-You can customize different Nutrition module interfaces using this functions:
+### Initializing the SDK
 
-
-#### Main color
-
-Main SDK colour can be personalized. All buttons and main elements of the Nutrition module will turn the selected colour.
+To get started with the NutritionSDK, import it into your AppDelegate and initialize it with your application's credentials:
 
 ```swift
-NutritionSDK.sharedInstance.setMainColor(color: MAIN_APP_COLOR)
+import NutritionSDK
 
+func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+    NutritionSDK.sharedInstance.start(with: "USER_IDENTIFIER", appID: "YOUR_APP_ID", password: "YOUR_SECRET_PASSWORD")
+    return true
+}
 ```
 
+- `USER_IDENTIFIER`: A unique identifier for the user.
+- `YOUR_APP_ID`: Your application's ID, as provided by NutritionSDK.
+- `YOUR_SECRET_PASSWORD`: A password to secure communications with the SDK.
+
+### User Profile Management
+
+Customize user profiles for tailored nutrition advice:
+
+```swift
+NutritionSDK.sharedInstance.updateProfile(sex: .female, height: 170, weight: 65, birthDate: Date(), activityLevel: 4)
+```
+
+- `sex`: User's gender.
+- `height`: User's height in centimeters.
+- `weight`: User's weight in kilograms.
+- `birthDate`: User's date of birth.
+- `activityLevel`: A scale of physical activity level.
+
+
+
+### UI Customization
+
+Customize the appearance of the SDK to match your app's theme:
+
+```swift
+NutritionSDK.sharedInstance.setMainColor(color: "#HEX_COLOR")
+NutritionSDK.sharedInstance.setNavigationBarColor(color: "#HEX_COLOR")
+NutritionSDK.sharedInstance.setNavigationTintColor(color: "#HEX_COLOR")
+NutritionSDK.sharedInstance.preferLargeTitle(_ preferLarge: Bool)
+NutritionSDK.sharedInstance.setNavigationTitle(title: "Your Title")
+NutritionSDK.sharedInstance.setCountry(_ country: NutritionUserCountry)
+```
+
+### Additional Functionalities
+
+Implement various SDK features to enhance user experience:
+
+```swift
+NutritionSDK.sharedInstance.logout()
+```
