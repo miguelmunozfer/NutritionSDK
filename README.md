@@ -34,13 +34,6 @@ end
 
 ## Implementation Guide
 
-### Show nutrition module
-
-
-```swift
-NutritionSDK.sharedInstance.showNutritionModule()
-
-```
 
 ### Initializing the SDK
 
@@ -59,6 +52,15 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
 - `YOUR_APP_ID`: Your application's ID, as provided by NutritionSDK.
 - `YOUR_SECRET_PASSWORD`: A password to secure communications with the SDK.
 
+
+### Show nutrition module
+
+
+```swift
+NutritionSDK.sharedInstance.showNutritionModule()
+
+```
+
 ### User Profile Management
 
 Customize user profiles for tailored nutrition advice:
@@ -73,6 +75,10 @@ NutritionSDK.sharedInstance.updateProfile(sex: .female, height: 170, weight: 65,
 - `birthDate`: User's date of birth.
 - `activityLevel`: A scale of physical activity level.
 
+#### NutritionGender
+
+- `.male` - Represents a male gender with the value "Male".
+- `.female` - Represents a female gender with the value "Female".
 
 
 ### UI Customization
@@ -87,6 +93,19 @@ NutritionSDK.sharedInstance.preferLargeTitle(_ preferLarge: Bool)
 NutritionSDK.sharedInstance.setNavigationTitle(title: "Your Title")
 NutritionSDK.sharedInstance.setCountry(_ country: NutritionUserCountry)
 ```
+
+#### NutritionUserCountry
+
+- `.spain` (1) - Spain
+- `.portugal` (2) - Portugal
+- `.colombia` (3) - Colombia
+- `.uk` (4) - United Kingdom
+- `.usa` (9) - United States of America
+- `.germany` (10) - Germany
+- `.italy` (11) - Italy
+- `.cataluna` (12) - Spain (Catalan)
+- `.spainEUS` (13) - Spain (Euskera)
+- `.usa2` (14) - United States of America
 
 ### Additional Functionalities
 
